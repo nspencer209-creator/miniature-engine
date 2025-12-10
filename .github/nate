@@ -1,1 +1,3 @@
 git clone https://huggingface.co/spaces/supersigma12/eric-s-pay-portal
+brew install git-xet
+git xet install
